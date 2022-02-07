@@ -1,5 +1,4 @@
 ﻿// Задача 8:** Показать чётные числа от 1 до N.
-Console.WriteLine("Hello, World!");
 int N = 14;
 int[] array = new int[N + 1];
 int index = 0;
